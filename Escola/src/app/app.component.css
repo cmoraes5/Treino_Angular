@@ -1,0 +1,15 @@
+.container{
+    margin: auto;
+}
+
+.card{
+    border-radius: 2rem;
+    border: none;
+    background-color: #c7fcfc;
+    box-shadow: 10px 10px 1rem #4d4c4c71;
+}
+
+img{
+    border-radius: 2rem;
+    box-shadow: 2px 2px 1rem #3f3f3fab;
+}
