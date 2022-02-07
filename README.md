@@ -1,3 +1,3 @@
-# Treino_Angular
+# Treino de Angular
 
 Projeto front-end para escolas
